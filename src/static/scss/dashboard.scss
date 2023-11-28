@@ -1,0 +1,30 @@
+input{
+    height: 1rem!important;
+    width: 100%!important;
+}
+.MuiFormControl-root{
+    width: 100%;
+    input:hover{
+        border: none;
+    }
+}
+.rdw-editor-main {
+    min-height: 200px;
+    background: #e8e8e8;
+    padding: 1rem;
+    word-break: break-all;
+}
+.multipleSelect{
+    input{
+        width: auto!important;
+    }
+}
+p{
+    word-break: break-all;
+}
+.dashboard_avatar{
+    box-shadow: rgb(255 255 255) 0px 0px 0px 3px;
+}
+h1, h2, h3, h4, h5, h6{
+    font-size: revert!important;
+}
